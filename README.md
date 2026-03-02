@@ -1,7 +1,7 @@
 # Stock Market Crash Prediction
 
 ## Overview
-* The goal of this assignment was to build a predictive model to identify stocks at risk of a "crash".
+* The goal of this project was to build a predictive model to identify stocks at risk of a "crash".
 * A "crash" is defined as a monthly return < -8%.
 * The model was built using data for the years (2019-2023).
 
@@ -38,4 +38,5 @@
 
 ## How to Run
 1. Ensure R is installed with the following libraries: dplyr, haven, ggplot2, caret, pROC, randomForest.
+
 2. The dataset mret7023 – provides monthly stock price data over the 1970–2023. It is derived from CRSP (https://www.crsp.org/research/crsp-us-stock-databases/).
